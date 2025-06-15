@@ -1,1 +1,2 @@
-
+Assesment Questions as done during internship training iat ASD
+Topic: Data science, ML, AI using python
